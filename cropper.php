@@ -3,7 +3,7 @@
 /*
 Plugin Name: Image Cropper
 Plugin URI: https://github.com/julioprotzek/ImageCropper
-Description: A simple image cropper API
+Description: Image cropper gives you an API for cropping images inside WordPress
 Author: Julio Protzek
 Version: 0.3.0
 Author URI: http://beehivestudio.com.br

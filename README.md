@@ -27,3 +27,8 @@ To crop images that are not post thumbnails, you can use <code>crop($url, $size)
 		$cropped_url= crop( get_bloginfo('url') . '/wp-content/uploads/image.jpg', array(200, 300) );
 	?>
 	<img src="<?php echo $cropped_url ?>">
+	
+	
+### Changelog
+0.3.0
+First public version
